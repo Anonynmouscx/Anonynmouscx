@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="prof.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="prof.jpg" height="100px" width="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aritra</h1>
 <h3 style ="color:orange" align="center"><b>I'm a passionate learner in DSA and Web dev from India.</h3>
